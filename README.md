@@ -12,7 +12,7 @@
 ![1](https://github.com/kerisu/NixieX4V1/blob/master/img/1.jpg)
 ![2](https://github.com/kerisu/NixieX4V1/blob/master/img/2.jpg)
 ![3](https://github.com/kerisu/NixieX4V1/blob/master/img/3.jpg)
-![4](https://github.com/kerisu/NixieX4V1/blob/master/img/4.jpg)
-![5](https://github.com/kerisu/NixieX4V1/blob/master/img/5.jpg)
-![6](https://github.com/kerisu/NixieX4V1/blob/master/img/6.jpg)
+![4](https://github.com/kerisu/NixieX4V1/blob/master/img/4.png)
+![5](https://github.com/kerisu/NixieX4V1/blob/master/img/5.png)
+![6](https://github.com/kerisu/NixieX4V1/blob/master/img/6.png)
  
