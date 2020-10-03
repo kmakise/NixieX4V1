@@ -1,0 +1,225 @@
+Board Information Report
+Filename     : E:\3C_项目工程\2020-四位辉光钟\PCBproject\NixieProject\NixiePCB_V1.00.PcbDoc
+Date         : 2020/9/18
+Time         : 16:26:59
+Time Elapsed : 00:00:01
+
+General
+    Board Size, 152.4mmx58.42mm
+    Components on board, 184
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 398
+    Connections routed, 398
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 12, 0, 347, 0, 0, 10, 0
+    Bottom Layer, 2, 552, 0, 1184, 0, 2, 27, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 77
+    Mechanical 13, 7, 0, 0, 60, 0, 0, 0, 102
+    Mechanical 15, 30, 0, 0, 214, 0, 0, 0, 0
+    Multi-Layer, 0, 77, 364, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 10, 0, 0, 7750, 29, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 76, 0, 0, 819, 344, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 8, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 364
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 11.258, 7262.923, 82%
+    Bottom Layer, 10.422, 6723.813, 76%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 564, 0
+    0.3mm, 0, 364
+    0.762mm, 48, 0
+    0.9mm, 22, 0
+    3mm, 4, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    31.496mil / 118.11mil, 1
+    31.496mil / 98.425mil, 1
+    31.496mil / 118.11mil, 1
+count : 3
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -0.9mm, 10
+    0.3mm, 364
+    0.6mm, 8
+    0.762mm, 48
+    0.8mm, 4
+    1.2mm, 1
+    1.2mm, 1
+    1.5mm, 4
+    3.2mm, 1
+count : 9
+
+Mid Layer Annular Ring Size, Count
+    -0.9mm, 10
+    0.3mm, 364
+    0.6mm, 8
+    0.762mm, 48
+    0.8mm, 4
+    1.2mm, 1
+    1.2mm, 1
+    1.5mm, 4
+    3.2mm, 1
+count : 9
+
+Bottom Layer Annular Ring Size, Count
+    -0.9mm, 10
+    0.3mm, 364
+    0.6mm, 8
+    0.762mm, 48
+    0.8mm, 4
+    1.2mm, 1
+    1.2mm, 1
+    1.5mm, 4
+    3.2mm, 1
+count : 9
+
+Pad Solder Mask, Count
+    0.1016mm, 641
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 641
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 641
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 641
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 641
+count : 1
+
+Pad Relief Entries, Count
+    4, 641
+count : 1
+
+Via Solder Mask, Count
+    0.0254mm, 201
+    0.1016mm, 163
+count : 2
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 364
+count : 1
+
+Track Width, Count
+    0.01mm, 32
+    0.0254mm, 7594
+    0.05mm, 60
+    0.1mm, 24
+    0.127mm, 1537
+    0.15mm, 32
+    0.1524mm, 86
+    0.2mm, 121
+    0.2032mm, 306
+    0.254mm, 324
+    0.3048mm, 225
+    0.381mm, 1
+    0.5mm, 8
+    1mm, 32
+count : 14
+
+Arc Line Width, Count
+    0.05mm, 30
+    0.127mm, 3
+    0.15mm, 7
+    0.2mm, 38
+    0.2032mm, 13
+    0.25mm, 1
+    0.254mm, 24
+    0.5mm, 7
+    0.508mm, 1
+    2.54mm, 1
+count : 10
+
+Arc Radius, Count
+    0.1136mm, 1
+    0.125mm, 1
+    0.127mm, 2
+    0.1545mm, 6
+    0.25mm, 2
+    0.35mm, 30
+    0.3592mm, 6
+    0.381mm, 1
+    0.5mm, 1
+    0.508mm, 17
+    0.635mm, 2
+    0.699mm, 16
+    0.97mm, 4
+    1.1903mm, 20
+    1.2703mm, 1
+    2.8mm, 2
+    3.15mm, 2
+    3.316mm, 1
+    5.4mm, 2
+    5.5mm, 4
+    9.25mm, 4
+count : 21
+
+Arc Degrees, Count
+    40, 1
+    45, 1
+    90, 16
+    98, 2
+    100, 20
+    142, 16
+    180, 8
+    292, 2
+    360, 59
+count : 9
+
+Text Height, Count
+    1.524mm, 4
+    2mm, 1
+    2.032mm, 368
+count : 3
+
+Text Width, Count
+    0.127mm, 3
+    0.1524mm, 1
+    0.254mm, 369
+count : 3
+
+Net Track Width, Count
+    0.127mm, 211
+count : 1
+
+Net Via Size, Count
+    0.6mm, 211
+count : 1

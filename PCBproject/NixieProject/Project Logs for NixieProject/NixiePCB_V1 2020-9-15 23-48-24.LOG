@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VCC_5V0 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VCC_5V0 Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=VCC_5V0 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U11-15
+Removed Pin From Net: NetName=ESPRX Pin=U11-21
+Removed Pin From Net: NetName=ESPTX Pin=U11-22
+Removed Member From Class: ClassName=PowerTree Member=C10
+Removed Member From Class: ClassName=PowerTree Member=C18
+Removed Member From Class: ClassName=PowerTree Member=C19
+Removed Member From Class: ClassName=PowerTree Member=C21
+Removed Member From Class: ClassName=Controller Member=R61
+Removed Member From Class: ClassName=Controller Member=R62
+Removed Member From Class: ClassName=Controller Member=R63
+Removed Member From Class: ClassName=PowerTree Member=U7
+Removed Member From Class: ClassName=Controller Member=U11
+Change Component Footprint: Designator=CR1 Old Footprint=CR2032 电池座 New Footprint=BAT-2P
+Change Component Footprint: Designator=K1 Old Footprint=按键 New Footprint=TSW 3*6*4.3-S-W
+Change Component Footprint: Designator=K2 Old Footprint=按键 New Footprint=TSW 3*6*4.3-S-W
+Change Component Footprint: Designator=K4 Old Footprint=按键 New Footprint=TSW 3*6*4.3-S-W
+Change Component Footprint: Designator=K5 Old Footprint=按键 New Footprint=TSW 3*6*4.3-S-W
+Change Component Footprint: Designator=K6 Old Footprint=按键 New Footprint=TSW 3*6*4.3-S-W
+Added Room: Name=Controller
+Added Room: Name=Nixie
+Added Room: Name=PowerTree

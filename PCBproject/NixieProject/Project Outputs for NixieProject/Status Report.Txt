@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NixieProject.PrjPcb]
+   Generated File[NixiePCB_V1.00-RoundHoles.TXT]
+   Generated File[NixiePCB_V1.00-SlotHoles.TXT]
+   Generated File[NixiePCB_V1.00.LDP]
+   Generated File[NixiePCB_V1.00.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:07:15 On 2020/9/24

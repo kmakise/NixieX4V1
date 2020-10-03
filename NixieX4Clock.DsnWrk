@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCBproject\NixieProject\NixieProject.PrjPcb
+[Project2]
+ProjectPath=..\2019-世界线变动率探测仪\DivergenceMeter\PCB 原理图\PCB_Divergence Meter.PrjPCB
+[Project3]
+ProjectPath=..\2019-VFD时钟\VFD_Clock\PCB&SCH\VFD.PrjPCB
+[Project4]
+ProjectPath=..\..\R&D_Engineering\work\熔接机主板\高性能\OptiSplice-V2.1\OptiSplice-V2.1\OptiSplice-V2.PrjPcb
+[Project5]
+ProjectPath=..\..\R&D_Engineering\work\电池保护板\D2\BatteryPack_CD\BatteryPack_CD.PrjPcb
+[Project6]
+ProjectPath=..\2020-荔枝派\F1C100S_DB_R1\PCBproject\F1C100S.PrjPcb

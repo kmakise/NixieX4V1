@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=OSCOUT Pin=Y1-1
+Removed Pin From Net: NetName=OSCIN Pin=Y1-2
+Removed Member From Class: ClassName=Controller Member=Y1
+Added Component: Designator=X1(XTAL-3225)
+Added Pin To Net: NetName=OSCOUT Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=OSCIN Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=Controller Member=Component X1 XTAL-24MHz
+Added Room: Name=Controller
+Added Room: Name=Nixie
+Added Room: Name=PowerTree

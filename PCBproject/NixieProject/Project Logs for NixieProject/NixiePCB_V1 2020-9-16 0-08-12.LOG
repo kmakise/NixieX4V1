@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3.3V Pin=P2-1
+Removed Pin From Net: NetName=+3.3V Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Member From Class: ClassName=Controller Member=P2
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R56-1

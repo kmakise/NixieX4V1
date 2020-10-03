@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=K3-1
+Removed Pin From Net: NetName=NRST Pin=K3-2
+Removed Member From Class: ClassName=Controller Member=K6
+Change Component Designator: OldDesignator=K4 NewDesignator=K3
+Change Component Designator: OldDesignator=K5 NewDesignator=K4
+Change Component Designator: OldDesignator=K6 NewDesignator=K5

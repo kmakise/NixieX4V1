@@ -1,0 +1,49 @@
+Added Component: Designator=LED8(LED 5MM-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED 5MM-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q46(SOT-23)
+Added Component: Designator=R71(R 0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R72(R 0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R73(R 0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q46-2
+Added Pin To Net: NetName=VCC_5V0 Pin=R71-1
+Added Pin To Net: NetName=VCC_5V0 Pin=R72-1
+Added Pin To Net: NetName=LED_PWM Pin=R73-1
+Added Pin To Net: NetName=LED_PWM Pin=U8-29
+Added Net: Name=LED_PWM
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R71-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED8_2 Pin=Q46-3
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R72-2
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetQ46_1 Pin=Q46-1
+Added Pin To Net: NetName=NetQ46_1 Pin=R73-2
+Added Net: Name=NetQ46_1
+Added Member To Class: ClassName=Nixie Member=Component LED8 LED
+Added Member To Class: ClassName=Nixie Member=Component LED9 LED
+Added Member To Class: ClassName=Nixie Member=Component Q46 NPN
+Added Member To Class: ClassName=Nixie Member=Component R71 R
+Added Member To Class: ClassName=Nixie Member=Component R72 R
+Added Member To Class: ClassName=Nixie Member=Component R73 R
+Added Room: Name=Controller
+Added Room: Name=Nixie
+Added Room: Name=PowerTree

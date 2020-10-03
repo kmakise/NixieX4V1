@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_170V Pin=L2-2
+Removed Pin From Net: NetName=VCC_170V Pin=Q45-3
+Removed Pin From Net: NetName=NetU2_14 Pin=U4-14
+Removed Pin From Net: NetName=NetU2_9 Pin=U5-9
+Change Component Comment : Designator=C24 Old Comment=CAP-+ New Comment=10uF
+Added Component: Designator=D3(DO-214AC-SMA)
+Added Pin To Net: NetName=VCC_170V Pin=D3-2
+Added Pin To Net: NetName=NetU2_9 Pin=U4-14
+Added Pin To Net: NetName=NetU2_14 Pin=U5-9
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=L2-2
+Added Pin To Net: NetName=NetD3_1 Pin=Q45-3
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=PowerTree Member=Component D3 FR107

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C11 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C12 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C13 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C14 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C15 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C16 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C17 Old Footprint=C 0805 New Footprint=C 0603
+Change Component Footprint: Designator=C20 Old Footprint=C 0805 New Footprint=C 0603
+Added Member To Class: ClassName=Controller Member=Component K3 °´¼ü
+Added Member To Class: ClassName=Controller Member=Component K4 °´¼ü
+Added Member To Class: ClassName=Controller Member=Component K5 °´¼ü
