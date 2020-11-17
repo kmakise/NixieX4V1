@@ -1,5 +1,5 @@
 # NixieX4V1
-四位辉光钟 演示视频：https://www.bilibili.com/video/BV1ni4y1E7YB#reply3559616964
+四位辉光钟 演示视频：https://www.bilibili.com/video/BV1ni4y1E7YB
 
 # 电源
  12V-5V TPS54331  12V-170V MAX1771
